@@ -1,4 +1,4 @@
-**welocme to `Breadcrumbsdiscord.js-report-project`**
+**welocme to `discord.js-report-project`**
 
 **go to `config.js` and type BOT `TOKEN` and BOT `name` and BOT `state` if you you want make bot private edit `private` to `true` if you dont edit `private` `false` , if `private` `true` add id your server in `servers`**
 
